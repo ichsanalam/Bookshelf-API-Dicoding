@@ -1,7 +1,7 @@
 # 📚 Bookshelf API
 Merupakan proyek tugas akhir dari "Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud" di **Dicoding** yang dibuat menggunakan Hapi Js, dan diuji menggunakan Postman.
 
-## Kriteria Proyek akhir:
+## Fitur:
 - API dapat menyimpan buku
 - API dapat menampilkan seluruh buku
 - API dapat menampilkan detail buku
